@@ -1,0 +1,14 @@
+C:\Users\Canberk\source\repos\Hospital_UI\Hospital_UI\bin\Debug\Hospital_UI.exe.config
+C:\Users\Canberk\source\repos\Hospital_UI\Hospital_UI\bin\Debug\Hospital_UI.exe
+C:\Users\Canberk\source\repos\Hospital_UI\Hospital_UI\bin\Debug\Hospital_UI.pdb
+C:\Users\Canberk\source\repos\Hospital_UI\Hospital_UI\obj\Debug\Hospital_UI.csprojAssemblyReference.cache
+C:\Users\Canberk\source\repos\Hospital_UI\Hospital_UI\obj\Debug\Hospital_UI.Form1.resources
+C:\Users\Canberk\source\repos\Hospital_UI\Hospital_UI\obj\Debug\Hospital_UI.Properties.Resources.resources
+C:\Users\Canberk\source\repos\Hospital_UI\Hospital_UI\obj\Debug\Hospital_UI.csproj.GenerateResource.cache
+C:\Users\Canberk\source\repos\Hospital_UI\Hospital_UI\obj\Debug\Hospital_UI.csproj.CoreCompileInputs.cache
+C:\Users\Canberk\source\repos\Hospital_UI\Hospital_UI\obj\Debug\Hospital_UI.exe
+C:\Users\Canberk\source\repos\Hospital_UI\Hospital_UI\obj\Debug\Hospital_UI.pdb
+C:\Users\Canberk\source\repos\Hospital_UI\Hospital_UI\bin\Debug\EntityFramework.dll
+C:\Users\Canberk\source\repos\Hospital_UI\Hospital_UI\bin\Debug\EntityFramework.xml
+C:\Users\Canberk\source\repos\Hospital_UI\Hospital_UI\obj\Debug\Hospital_UI.csproj.CopyComplete
+C:\Users\Canberk\source\repos\Hospital_UI\Hospital_UI\obj\Debug\Hospital_UI.Form2.resources
